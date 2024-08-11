@@ -5,5 +5,4 @@ Here's my guestbook, The Enclosure! Warning for VERY heavy bug theming!
 ______________________
 The Gallery!
 (my art)
-
-None right now - Come back later!
+- None right now - Come back later!
